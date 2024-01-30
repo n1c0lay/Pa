@@ -3,16 +3,16 @@ body {
   background-color: lightgreen;
 }
 h1 {
-  font-size: 48px;
+  font-size: 41px;
 }
-h1 {
-  font-size: 43px;
+h2 {
+  font-size: 37px;
 }
-h1 {
-  font-size: 38px;
+h3 {
+  font-size: 33px;
 }
 h4 {
-  font-size: 33px;
+  font-size: 29px;
 }
 h4:hover {
   background-color: orange;

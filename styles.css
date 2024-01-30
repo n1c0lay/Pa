@@ -1,1 +1,12 @@
-
+@keyframes ani {
+  from {background-color: lightgray;}
+  to {background-color: gray;}
+}
+body {
+  color: white;
+  animation: ani 4s infinite;
+  animation-direction: alternate-reverse;
+}
+img {
+  width: 100%;
+}

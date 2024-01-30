@@ -3,8 +3,14 @@
   to {background-color: gray;}
 }
 body {
-  font-size: 35px;
-  color: #966F5D;
   animation: ani 4s infinite;
   animation-direction: alternate-reverse;
+}
+h2 {
+  font-size: 30px;
+  color: #966F5D;
+}
+h1 {
+  font-size: 35px;
+  color: #50C878;
 }

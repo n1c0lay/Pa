@@ -1,5 +1,5 @@
 @keyframes ani {
-  from {background-color: lightgray;}
+  from {background-color: darkgray;}
   to {background-color: gray;}
 }
 body {

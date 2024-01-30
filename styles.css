@@ -1,6 +1,6 @@
 @keyframes ani {
-  from {background-color: darkgray;}
-  to {background-color: gray;}
+  from {background-color: #8A8A8A;}
+  to {background-color: #999999;}
 }
 body {
   animation: ani 4s infinite;

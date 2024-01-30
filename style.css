@@ -12,9 +12,15 @@ h2 {
 h3 {
   font-size: 22px;
 }
+#rus {
+  font-size: 25px;
+}
 h4 {
-  font-size: 28px;
+  font-size: 30px;
 }
 h4:hover {
   background-color: orange;
+}
+a {
+  font-size: 26px;
 }

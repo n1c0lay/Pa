@@ -3,6 +3,7 @@
   to {background-color: gray;}
 }
 body {
+  font-size: 35px;
   color: #966F5D;
   animation: ani 4s infinite;
   animation-direction: alternate-reverse;
